@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-api-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-api-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v85-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v85-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v112-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v112-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v113-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v113-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v114-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-devtools-v114-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-edge-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-edge-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-firefox-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-firefox-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-http-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-http-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-chrome-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-chrome-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-chromium-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-chromium-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-ie-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-ie-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-java-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-java-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-json-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-json-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-manager-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-manager-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-remote-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-remote-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-safari-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-safari-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-server-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-support-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/selenium-support-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/byte-buddy-1.14.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/failsafe-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-buffer-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-codec-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-codec-http-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-codec-socks-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-common-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-handler-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-handler-proxy-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-resolver-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-transport-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-transport-classes-epoll-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-transport-classes-kqueue-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-transport-native-epoll-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-transport-native-kqueue-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/netty-transport-native-unix-common-4.1.92.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-api-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-api-events-1.26.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-api-logs-1.26.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-context-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-exporter-logging-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-extension-incubator-1.26.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-sdk-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-sdk-common-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-sdk-extension-autoconfigure-1.26.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-sdk-logs-1.26.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-sdk-metrics-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-sdk-trace-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/opentelemetry-semconv-1.26.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The God/eclipse/lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
